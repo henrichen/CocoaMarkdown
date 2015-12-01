@@ -16,7 +16,6 @@ Efficient NSAttributedString creation for easy rendering on iOS and OS X. Most e
 
   s.source       = { :git => "https://github.com/arielelkin/CocoaMarkdown.git", :tag => "1.0.0" }
   s.source_files  = "CocoaMarkdown"
-  s.module_map = "Supporting Files/CocoaMarkdown/module.modulemap"
 
   s.framework  = "UIKit"
   
